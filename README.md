@@ -104,7 +104,7 @@ GPP-PIM now supports comparisons in 12 different strategy usage environments.
 
 ## Usage
 
-You can utilize the provided instruction code to conduct execution strategy tests for various usage scenarios. For detailed information, please refer to the ['GPP-PIM_usage_guide.md'](User_Guide/Instruction.md).
+You can utilize the provided instruction code to conduct execution strategy tests for various usage scenarios. For detailed information, please refer to the ['GPP-PIM_usage_guide.md'](User_Guide/GPP-PIM_usage_guide.md).
 
 Preparation:
 1. Python 3 environment: Employed for running the assembler program.
