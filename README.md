@@ -1,4 +1,4 @@
-# <center> Generalized Ping-Pong Processing-in-memory architecture
+<h1 align="center">Generalized Ping-Pong Processing-in-memory architecture</h1>
 
 ***
 
@@ -35,7 +35,7 @@ GPP-PIM now supports comparisons in 12 different strategy usage environments.
 </table>
 
 ### ISA
-['Instruction.md'] 此文件定义了GPP-PIM使用的ISA。
+['Instruction.md'](ISA/Instruction.md) This document defines the ISA utilized by GPP-PIM.
 
 ***
 
@@ -112,7 +112,7 @@ GPP-PIM now supports comparisons in 12 different strategy usage environments.
 
 ## Usage
 
-You can utilize the provided instruction code to conduct execution strategy tests for various usage scenarios. For detailed information, please refer to the ['GPP-PIM_usage_guide.md'].
+You can utilize the provided instruction code to conduct execution strategy tests for various usage scenarios. For detailed information, please refer to the ['GPP-PIM_usage_guide.md'](User_Guide/Instruction.md).
 
 Preparation:
 1. Python 3 environment: Employed for running the assembler program.
