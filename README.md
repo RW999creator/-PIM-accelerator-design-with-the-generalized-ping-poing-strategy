@@ -1,4 +1,4 @@
-<h1 align="center">Generalized Ping-Pong Processing-in-memory architecture</h1>
+<h1 align="center">Generalized Ping-Pong Processing-In-Memory Architecture</h1>
 
 ## Overview
 GPP-PIM is a PIM architecture with weight update capabilities, supporting three modes: Generalized Ping-Pong, naive Ping-Pong, and in situ write/compute.
