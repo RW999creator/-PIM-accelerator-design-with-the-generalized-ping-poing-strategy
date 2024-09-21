@@ -1,7 +1,5 @@
 <h1 align="center">Generalized Ping-Pong Processing-in-memory architecture</h1>
 
-***
-
 ## Overview
 GPP-PIM is a PIM architecture with weight update capabilities, supporting three modes: Generalized Ping-Pong, naive Ping-Pong, and in situ write/compute.
 
@@ -10,8 +8,6 @@ It possesses a set of customized instructions to facilitate the architecture in 
 Data such as execution time, macro utilization, off-chip bandwidth utilization, and on-chip memory usage will be monitored to test and compare the optimal parallel write/compute strategies.
 
 GPP-PIM now supports comparisons in 12 different strategy usage environments.
-
-***
 
 ## Basic Parameters
 ### Architecture
@@ -36,8 +32,6 @@ GPP-PIM now supports comparisons in 12 different strategy usage environments.
 
 ### ISA
 ['Instruction.md'](ISA/Instruction.md) This document defines the ISA utilized by GPP-PIM.
-
-***
 
 ## Scenarios
 ### Design Phase Optimization
@@ -108,8 +102,6 @@ GPP-PIM now supports comparisons in 12 different strategy usage environments.
     </tr>
 </table>
 
-***
-
 ## Usage
 
 You can utilize the provided instruction code to conduct execution strategy tests for various usage scenarios. For detailed information, please refer to the ['GPP-PIM_usage_guide.md'](User_Guide/Instruction.md).
@@ -117,8 +109,6 @@ You can utilize the provided instruction code to conduct execution strategy test
 Preparation:
 1. Python 3 environment: Employed for running the assembler program.
 2. ModelSim software: Utilized for simulating our Verilog files.
-
-***
 
 ## Citation
 You can cite GPP-PIM using our related paper as:
